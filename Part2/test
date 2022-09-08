@@ -1,0 +1,31 @@
+ERROR:: No GLOBAL whith this name : at line 4,before token: "Global" !
+ERROR:: Assigning value to function : at line 3,before token: "=" !
+ERROR:: Assigning value to function : at line 5,before token: "=" !
+ERROR:: Return outside of function : at line 8,before token: "G" !
+ERROR:: You try to return without being in function : at line 8,before token: "G" !
+ERROR:: BREAK outside loop : at line 9,before token: ";" !
+ERROR:: CONTINUE outside loop : at line 10,before token: ";" !
+ERROR:: Return outside of function : at line 15,before token: "G" !
+ERROR:: You try to return without being in function : at line 15,before token: "G" !
+ERROR:: BREAK outside loop : at line 16,before token: ";" !
+ERROR:: CONTINUE outside loop : at line 17,before token: ";" !
+ERROR:: You cant access the IDENT : at line 13,before token: "x" !
+ERROR:: Assigning local libfunc outside GLOBAL scope : at line 16,before token: "print" !
+ERROR:: Assigning value to function : at line 16,before token: "=" !
+ERROR:: You cant access the IDENT : at line 20,before token: "x" !
+ERROR:: Already assigned a variable with this name : at line 4,before token: "x" !
+ERROR:: Already assigned a function with this name : at line 5,before token: "f" !
+ERROR:: You cant access the IDENT : at line 11,before token: "x" !
+ERROR:: You cant access the IDENT : at line 12,before token: "x" !
+ERROR:: Assigning value to function : at line 4,before token: "=" !
+ERROR:: Assigning value to function : at line 5,before token: "=" !
+ERROR:: Assigning value to function : at line 6,before token: ";" !
+ERROR:: Assigning value to function : at line 7,before token: "--" !
+ERROR:: Already assigned a variable with this name : at line 3,before token: "x" !
+ERROR:: You cant access the IDENT : at line 4,before token: "x" !
+ERROR:: Shadowing libfunc : at line 1,before token: "print" !
+ERROR:: Shadowing libfunc : at line 1,before token: "input" !
+ERROR:: Shadowing a LIB function : at line 5,before token: "print" !
+ERROR:: Assigning local libfunc outside GLOBAL scope : at line 10,before token: "print" !
+ERROR:: Formal argument already assigned : at line 1,before token: "x" !
+syntax error: at line 2,before token: "=" !

@@ -1,0 +1,12 @@
+"Oh,
+Hello there\n World!
+Everything Ok?\tNice...
+Hmmm..."
+
+"Hello\n Again\tWorld!"
+"Andria p"
+
+"3 strings in a row""comment1""comment2""comment3"
+
+"2 empty strings in a row""""";
+"djfkjfkj\"jkfjkfk"
