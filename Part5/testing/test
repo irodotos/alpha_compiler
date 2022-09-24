@@ -3,7 +3,7 @@ if(1 < 5){
 	print("yes");
 }
 
-
+/*
 function bar() {
 	for(i=0; i<totalarguments(); i++) {
 		print("bar var_arg i ", argument(i));
@@ -14,3 +14,4 @@ function bar() {
 bar(0);
 bar(0,1,2);
 bar(cos, bar, "foo", true, false, nil, [cos,sin], argument);
+*/
